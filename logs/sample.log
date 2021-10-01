@@ -1,0 +1,603 @@
+[INFO ] 2021-09-23 15:25:12.518 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 15:25:16.348 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 15:25:21.417 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-23 15:25:28.491 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-23 15:25:33.611 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 15:25:39.652 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 15:25:44.218 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 15:25:48.049 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 15:25:55.114 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 15:26:01.083 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 15:26:04.945 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 15:26:11.226 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 15:26:18.920 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-23 15:26:22.912 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 15:26:27.483 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-23 15:26:31.242 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-23 15:26:36.075 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 15:26:40.917 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 15:26:44.776 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 15:26:48.911 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 15:26:53.582 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-23 15:26:57.474 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-23 15:27:01.672 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-23 15:27:06.382 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-23 15:27:10.888 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-23 15:27:15.244 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-23 15:27:19.386 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-23 15:27:23.433 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-23 15:27:27.885 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-23 15:27:31.628 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-23 15:27:35.565 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-23 15:27:39.661 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 15:27:44.167 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-23 15:27:48.379 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 15:27:52.461 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-23 15:27:56.659 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 15:28:00.444 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:05.019 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 15:28:09.771 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:14.271 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-23 15:28:18.173 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:22.386 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:27.327 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:31.299 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:28:35.233 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 15:28:39.563 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 15:28:44.376 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 15:28:48.531 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-23 15:28:52.363 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-23 15:28:56.508 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-23 15:29:00.431 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-23 15:29:05.162 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-23 15:29:09.011 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-23 15:29:13.456 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 15:29:17.654 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-3']  Click action Performed
+[INFO ] 2021-09-23 15:29:21.179 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 15:29:27.587 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 15:29:33.543 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-23 15:29:37.826 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 15:29:42.063 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-23 15:29:46.735 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-23 15:29:51.724 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:29:56.169 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:30:00.456 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:30:04.723 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 15:30:10.082 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 15:30:14.317 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 15:30:19.093 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 15:30:23.905 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-23 15:30:28.043 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-23 15:30:32.053 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-23 15:30:36.705 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-23 15:30:41.457 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-23 15:30:45.920 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-23 15:30:49.714 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[ERROR] 2021-09-23 15:30:57.839 [main] Log4jDemo - OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='mat-select-value-3']"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Smartpoints-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.Ag4x0D}, goog:chromeOptions: {debuggerAddress: localhost:42457}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 7c7a56860b22d37085d3c23fd80...}
+Session ID: 7c7a56860b22d37085d3c23fd8021276
+*** Element info: {Using=xpath, value=//div[@id='mat-select-value-3']}
+[DEBUG] 2021-09-23 16:33:11.108 [main] Log4jDemo - This is an debug message
+[INFO ] 2021-09-23 16:33:11.112 [main] Log4jDemo - This is an information message
+[ERROR] 2021-09-23 16:33:11.112 [main] Log4jDemo - This is an error message
+[WARN ] 2021-09-23 16:33:11.112 [main] Log4jDemo - This is an warning message
+[FATAL] 2021-09-23 16:33:11.113 [main] Log4jDemo - This is an fatal message
+[INFO ] 2021-09-23 18:23:50.695 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-23 18:23:55.497 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 18:23:59.530 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 18:24:05.891 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:11.397 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:17.022 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:23.796 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:27.601 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 18:24:31.326 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 18:24:38.541 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:44.742 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-23 18:24:48.619 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 18:24:55.043 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 18:25:00.536 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-23 18:25:04.525 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 18:25:08.290 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-23 18:25:12.684 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-23 18:25:17.045 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 18:25:22.060 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 18:25:26.016 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 18:25:30.047 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 18:25:34.540 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-23 18:25:38.781 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-23 18:25:43.375 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-23 18:25:47.352 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-23 18:25:51.143 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-23 18:25:55.090 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-23 18:25:59.123 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-23 18:26:02.983 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-23 18:26:06.876 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-23 18:26:11.583 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-23 18:26:15.512 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-23 18:26:19.606 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 18:26:23.426 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-23 18:26:27.189 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 18:26:30.977 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-23 18:26:35.990 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 18:26:43.321 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-23 18:26:47.109 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-23 18:26:52.030 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-23 18:26:56.096 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-23 18:27:00.011 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:27:04.764 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:27:13.468 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:27:18.164 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:27:22.682 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 18:27:26.881 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 18:27:31.284 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 18:27:35.482 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-23 18:27:39.635 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-23 18:27:44.329 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-23 18:27:48.530 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-23 18:27:53.214 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-23 18:27:58.109 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-23 18:28:02.407 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 18:28:06.286 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-3']  Click action Performed
+[INFO ] 2021-09-23 18:28:09.786 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-23 18:28:15.520 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-23 18:28:21.561 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-23 18:28:25.760 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-23 18:28:29.896 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-23 18:28:33.949 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-23 18:28:38.763 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:28:42.729 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:28:46.853 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:28:51.308 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-23 18:28:55.468 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-23 18:28:59.652 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-23 18:29:04.616 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-23 18:29:08.523 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-23 18:29:12.591 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-23 18:29:17.264 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-23 18:29:21.083 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-23 18:29:28.314 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-23 18:29:32.318 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-23 18:29:36.169 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[ERROR] 2021-09-23 18:29:47.335 [main] Log4jDemo - OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='mat-select-value-3']"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Smartpoints-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.qOinwi}, goog:chromeOptions: {debuggerAddress: localhost:34695}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 0ad98e616f0563d4ef87b8de03c...}
+Session ID: 0ad98e616f0563d4ef87b8de03cd1bdf
+*** Element info: {Using=xpath, value=//div[@id='mat-select-value-3']}
+[INFO ] 2021-09-24 13:17:28.820 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-24 13:17:33.954 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-24 13:17:38.631 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-24 13:17:44.342 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-24 13:17:50.267 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-24 13:17:56.140 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:01.788 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:05.782 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-24 13:18:09.287 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-24 13:18:15.251 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:31.169 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:35.296 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-24 13:18:40.825 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:49.917 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-24 13:18:53.759 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-24 13:18:57.837 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-24 13:19:02.097 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-24 13:19:05.988 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-24 13:19:10.781 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-24 13:19:14.553 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-24 13:19:18.626 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-24 13:19:23.060 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-24 13:19:27.262 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-24 13:19:31.355 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-24 13:19:35.415 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-24 13:19:39.309 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-24 13:19:43.231 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-24 13:19:47.002 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-24 13:19:50.904 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-24 13:19:55.406 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-24 13:19:59.837 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-24 13:20:03.958 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-24 13:20:07.958 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-24 13:20:11.769 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:15.529 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-24 13:20:22.154 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:26.262 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-24 13:20:30.275 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:34.589 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-24 13:20:38.416 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:42.795 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-24 13:20:47.302 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:51.189 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:55.303 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:20:59.252 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:21:03.399 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-24 13:21:07.367 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-24 13:21:11.633 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-24 13:21:16.022 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-24 13:21:20.034 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-24 13:21:24.048 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-24 13:21:28.264 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-24 13:21:32.393 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-24 13:21:36.396 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-24 13:21:40.650 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-24 13:21:44.776 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-3']  Click action Performed
+[INFO ] 2021-09-24 13:21:48.199 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-24 13:21:53.858 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-24 13:21:59.225 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-24 13:22:03.112 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-24 13:22:06.992 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-24 13:22:11.012 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-24 13:22:15.077 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:22:19.249 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:22:23.758 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:22:27.752 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-24 13:22:31.896 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-24 13:22:36.036 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-24 13:22:40.108 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-24 13:22:44.063 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-24 13:22:48.295 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-24 13:22:52.405 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-24 13:22:56.273 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-24 13:23:00.393 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-24 13:23:04.248 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-24 13:23:08.161 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[ERROR] 2021-09-24 13:23:16.242 [main] Log4jDemo - OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='mat-select-value-3']"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Smartpoints-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.51VIjn}, goog:chromeOptions: {debuggerAddress: localhost:43153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 1cb9484aeb5e6bb10bc8357f14b...}
+Session ID: 1cb9484aeb5e6bb10bc8357f14b76fa9
+*** Element info: {Using=xpath, value=//div[@id='mat-select-value-3']}
+[INFO ] 2021-09-25 14:44:53.761 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-25 14:45:02.710 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 14:45:06.949 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:45:13.877 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-25 14:45:21.253 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:45:28.267 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:45:35.047 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:45:39.170 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:45:42.943 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 14:45:48.183 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:45:53.444 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:48:12.865 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-25 14:48:12.872 [main] Log4jDemo - {
+   "store":{
+      "book":[
+         {
+            "category":"reference",
+            "author":"Nigel Rees",
+            "title":"Sayings of the Century",
+            "price":8.95
+         },
+         {
+            "category":"fiction",
+            "author":"Evelyn Waugh",
+            "title":"Sword of Honour",
+            "price":12.99
+         },
+         {
+            "category":"fiction",
+            "author":"J. R. R. Tolkien",
+            "title":"The Lord of the Rings",
+            "isbn":"0-395-19395-8",
+            "price":22.99
+         }
+      ],
+      "bicycle":{
+         "color":"red",
+         "price":19.95
+      }
+   }
+}
+[INFO ] 2021-09-25 14:48:15.967 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 14:48:20.435 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:48:27.092 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-25 14:48:34.566 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:48:41.253 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:48:47.980 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:48:52.178 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:48:55.779 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 14:49:02.315 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:49:07.844 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-25 14:49:12.554 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:49:18.937 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:49:25.839 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-25 14:49:29.801 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:49:33.663 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-25 14:49:37.540 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-25 14:49:42.043 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-25 14:49:46.147 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-25 14:49:50.285 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-25 14:49:54.537 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-25 14:49:59.043 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-25 14:50:04.060 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-25 14:50:08.297 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-25 14:50:12.764 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-25 14:50:17.576 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-25 14:50:21.406 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-25 14:50:25.870 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-25 14:50:30.421 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-25 14:50:34.574 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-25 14:50:38.981 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-25 14:50:42.840 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-25 14:50:46.967 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-25 14:50:51.449 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-25 14:50:55.570 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-25 14:51:00.044 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:04.885 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-25 14:51:08.972 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:13.895 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-25 14:51:18.400 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:22.853 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-25 14:51:27.425 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:31.566 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:36.627 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:41.057 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:51:45.866 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-25 14:51:50.348 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-25 14:51:54.546 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-25 14:51:58.949 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-25 14:52:03.762 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-25 14:52:07.793 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-25 14:52:12.352 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-25 14:52:16.280 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-25 14:52:20.759 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-25 14:52:25.624 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-25 14:52:29.700 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-3']  Click action Performed
+[INFO ] 2021-09-25 14:52:33.255 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 14:52:39.908 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-25 14:52:46.051 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-25 14:52:50.557 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 14:52:54.346 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-25 14:52:58.776 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-25 14:53:03.357 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:53:08.234 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[3]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:53:13.069 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[4]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:53:17.514 [main] Log4jDemo - click  xpath  //body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[5]/button[1]/i[1]  Click action Performed
+[INFO ] 2021-09-25 14:53:22.238 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-25 14:53:26.976 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-25 14:53:31.795 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-25 14:53:36.223 [main] Log4jDemo - click  xpath  //div[contains(text(),'FULL NAME')]  Click action Performed
+[INFO ] 2021-09-25 14:53:41.039 [main] Log4jDemo - click  xpath  //div[contains(text(),'EMAIL')]  Click action Performed
+[INFO ] 2021-09-25 14:53:45.544 [main] Log4jDemo - click  xpath  //div[contains(text(),'PHONE')]  Click action Performed
+[INFO ] 2021-09-25 14:53:49.587 [main] Log4jDemo - click  xpath  //div[contains(text(),'PLATFORM')]  Click action Performed
+[INFO ] 2021-09-25 14:53:54.145 [main] Log4jDemo - click  xpath  //div[contains(text(),'FEATURE')]  Click action Performed
+[INFO ] 2021-09-25 14:53:58.959 [main] Log4jDemo - click  xpath  //div[contains(text(),'COMMENTS')]  Click action Performed
+[INFO ] 2021-09-25 14:54:03.192 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[ERROR] 2021-09-25 14:54:13.426 [main] Log4jDemo - OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='mat-select-value-3']"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Smartpoints-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2', java.version: '16.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.4KQPl9}, goog:chromeOptions: {debuggerAddress: localhost:45851}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: d2855c1e0423115094c693bb19b...}
+Session ID: d2855c1e0423115094c693bb19b741c8
+*** Element info: {Using=xpath, value=//div[@id='mat-select-value-3']}
+[INFO ] 2021-09-25 16:00:31.467 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-25 16:00:34.435 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 16:00:39.427 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 16:00:45.330 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-25 16:00:52.533 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-25 16:09:55.461 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-25 16:09:59.710 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-25 16:10:06.599 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-25 16:10:18.580 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-25 16:10:27.079 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-26 13:33:26.500 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-26 13:33:30.639 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-26 13:33:34.495 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-26 13:33:39.602 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-26 13:33:44.711 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-26 13:36:14.039 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-26 13:36:16.307 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-26 13:36:20.159 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-26 13:36:25.526 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-26 13:36:30.502 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-26 15:58:39.065 [main] Log4jDemo - Testing Started successfully.
+[ERROR] 2021-09-26 15:58:39.856 [main] Log4jDemo - OOPS!, something went wrong:java.io.FileNotFoundException: C:\Users\user\DownloadsMarygold&Co_web.xlsx (No such file or directory)
+[INFO ] 2021-09-26 15:58:55.732 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-26T15:58:35.581226","endTime":"2021-09-26T15:58:55.710913","executionTime":"(20)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-26T15:58:39.068359","details":"Testing Started successfully."},{"status":0,"timestamp":"2021-09-26T15:58:39.857078","screenshort":"Screenshot/Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/Reports/22-09-2021/Screenshots/image.png","details":"OOPS!, something went wrong:java.io.FileNotFoundException: C:\\Users\\user\\DownloadsMarygold\u0026Co_web.xlsx (No such file or directory)"}]}
+[INFO ] 2021-09-26 16:00:11.776 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-26 16:00:14.345 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-26 16:00:18.272 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-26 16:00:23.418 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-26 16:00:28.739 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-26 16:00:34.376 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-26T16:00:08.228791","endTime":"2021-09-26T16:00:34.358048","executionTime":"(26)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-26T16:00:11.779363","details":"Testing Started successfully."},{"status":1,"timestamp":"2021-09-26T16:00:14.345343","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-26T16:00:18.272993","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-26T16:00:23.418786","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remi@yahoo.in  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-26T16:00:28.740294","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remigiusbca@gmail.com  Sendkey action Performed. "}]}
+[INFO ] 2021-09-29 16:24:14.793 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 16:24:22.648 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 16:24:26.498 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:24:31.588 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-29 16:24:36.660 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-29 16:24:41.689 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 16:24:46.648 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 16:35:51.777 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 16:38:02.192 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-29T16:35:12.963808","endTime":"2021-09-29T16:38:01.228189","executionTime":"(168)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-29T16:35:51.780826","details":"Testing Started successfully."}]}
+[INFO ] 2021-09-29 16:39:44.804 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 16:39:50.191 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 16:39:54.061 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:39:59.088 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:04.203 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:09.166 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:14.243 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:17.958 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:40:21.486 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 16:40:26.529 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:31.564 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:35.331 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:40:40.409 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:45.343 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-29 16:40:49.093 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:40:52.881 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-29 16:40:56.602 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-29 16:41:00.400 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-29 16:41:04.448 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-29 16:41:08.264 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-29 16:41:12.036 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-29 16:41:15.795 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-29 16:41:19.566 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-29 16:41:23.361 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-29 16:41:27.093 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-29 16:41:30.937 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-29 16:41:34.671 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-29 16:41:38.437 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-29 16:41:42.241 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-29 16:41:46.061 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-29 16:41:49.938 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-29 16:41:53.760 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-29 16:41:57.638 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 16:42:01.451 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-29 16:42:05.268 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 16:42:09.100 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-29 16:42:12.942 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 16:42:16.783 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-29 16:42:20.631 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 16:42:58.077 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 16:43:02.601 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 16:43:06.645 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:43:11.898 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-29 16:43:21.115 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-29T16:42:52.933686","endTime":"2021-09-29T16:43:20.052527","executionTime":"(27)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-29T16:42:58.095799","details":"Testing Started successfully."},{"status":1,"timestamp":"2021-09-29T16:43:02.602077","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-29T16:43:06.646094","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T16:43:11.898663","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remi@yahoo.in  Sendkey action Performed. "}]}
+[INFO ] 2021-09-29 16:54:31.151 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 16:54:35.990 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 16:54:39.819 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 16:54:44.897 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-29 17:03:38.218 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-29T16:54:25.351178","endTime":"2021-09-29T16:54:52.840454","executionTime":"(27)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-29T16:54:31.160023","details":"Testing Started successfully."},{"status":1,"timestamp":"2021-09-29T16:54:35.991383","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-29T16:54:39.820","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T16:54:44.898479","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remi@yahoo.in  Sendkey action Performed. "}]}
+[INFO ] 2021-09-29 17:07:00.858 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-29 17:07:04.015 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 17:07:09.134 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 17:07:15.045 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:21.319 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:26.706 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:36.364 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:40.467 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 17:07:43.964 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-29 17:07:49.727 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:55.518 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-29 17:07:59.863 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 17:08:06.679 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-29 17:08:13.077 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-29 17:08:17.534 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-29 17:08:21.337 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-29 17:08:25.558 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-29 17:08:29.566 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-29 17:08:34.397 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-29 17:08:39.027 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-29 17:08:43.766 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-29 17:08:47.854 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-29 17:08:52.256 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-29 17:08:57.336 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-29 17:09:02.516 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-29 17:09:06.976 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-29 17:09:11.760 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-29 17:09:16.821 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-29 17:09:20.918 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-29 17:09:24.795 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-29 17:09:28.559 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-29 17:09:32.958 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-29 17:09:37.300 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 17:09:41.686 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-29 17:09:46.016 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 17:09:50.165 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-29 17:09:54.224 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 17:09:57.963 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-29 17:10:02.542 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-29 17:10:06.382 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-29 17:10:10.451 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[ERROR] 2021-09-29 17:10:17.362 [main] Log4jDemo - OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]"}
+  (Session info: chrome=91.0.4472.77)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Smartpoints-iMac.local', ip: '127.0.0.1', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '11.0.2'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.a4VHBC}, goog:chromeOptions: {debuggerAddress: localhost:41693}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 3bff03a8aceca41f3bd79da4679...}
+Session ID: 3bff03a8aceca41f3bd79da4679ddf25
+*** Element info: {Using=xpath, value=//body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]}
+[INFO ] 2021-09-29 17:10:22.939 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-29T17:06:56.441205","endTime":"2021-09-29T17:10:21.995243","executionTime":"(205)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-29T17:07:00.862974","details":"Testing Started successfully."},{"status":1,"timestamp":"2021-09-29T17:07:04.015334","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-29T17:07:09.135346","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:15.046253","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remi@yahoo.in  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:21.320020","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remigiusbca@gmail.com  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:26.706947","details":"sendKeys xpath //input[@id\u003d\u0027password\u0027] Pd123456!  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:36.364708","details":"sendKeys xpath //input[@id\u003d\u0027password\u0027] Pd123456!  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:40.467465","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:43.964280","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-29T17:07:49.727505","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] user@marygoldandco.com  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:55.519156","details":"sendKeys xpath //input[@id\u003d\u0027password\u0027] Pd123456!  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:07:59.863735","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:06.680071","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] user@marygoldandco.com  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:13.077911","details":"sendKeys xpath //input[@id\u003d\u0027password\u0027] user  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:17.534208","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:21.337517","details":"click xpath //span[contains(text(),\u0027Reports\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:25.558790","details":"click xpath //a[contains(text(),\u0027Carta Report\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:29.566351","details":"click xpath //button[contains(text(),\u0027SEARCH\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:34.397670","details":"click xpath //button[contains(text(),\u0027Refresh\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:39.027719","details":"click xpath //button[contains(text(),\u0027RESET\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:43.767149","details":"click xpath //button[contains(text(),\u0027SEARCH\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:47.854244","details":"click xpath //div[contains(text(),\u0027REFERENCE NUMBER\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:52.257047","details":"click xpath //div[contains(text(),\u0027EXTERNAL STAN\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:08:57.336459","details":"click xpath //div[contains(text(),\u0027MESSAGE TYPE\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:02.516693","details":"click xpath //div[contains(text(),\u0027PROCESSING CODE\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:06.976975","details":"click xpath //div[contains(text(),\u0027ACTION CODE\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:11.761455","details":"click xpath //div[contains(text(),\u0027CLIENT ID\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:16.821689","details":"click xpath //div[contains(text(),\u0027ACCOUNT ID\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:20.918996","details":"click xpath //div[contains(text(),\u0027CARD ID\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:24.796668","details":"click xpath //div[contains(text(),\u0027TRANSACTION LOCAL DATE\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:28.559701","details":"click xpath //div[contains(text(),\u0027BUSINESS DATE\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:32.959166","details":"click xpath //div[contains(text(),\u0027TRANSACTION AMOUNT\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:37.300941","details":"click xpath //div[@id\u003d\u0027mat-select-value-1\u0027]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:41.687049","details":"click xpath //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:46.017472","details":"click xpath //div[@id\u003d\u0027mat-select-value-1\u0027]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:50.166422","details":"click xpath //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:54.224387","details":"click xpath //div[@id\u003d\u0027mat-select-value-1\u0027]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:09:57.964469","details":"click xpath //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:10:02.542682","details":"click xpath //div[@id\u003d\u0027mat-select-value-1\u0027]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:10:06.383061","details":"click xpath //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed. "},{"status":1,"timestamp":"2021-09-29T17:10:10.451331","details":"click xpath //a[contains(text(),\u0027Feedback\u0027)]  Click action Performed. "},{"status":0,"timestamp":"2021-09-29T17:10:17.364383","screenshort":"Screenshot/Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/Reports/22-09-2021/Screenshots/image.png","details":"OOPS!, something went wrong:org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]\"}\n  (Session info: chrome\u003d91.0.4472.77)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027Smartpoints-iMac.local\u0027, ip: \u0027127.0.0.1\u0027, os.name: \u0027Mac OS X\u0027, os.arch: \u0027x86_64\u0027, os.version: \u002710.16\u0027, java.version: \u002711.0.2\u0027\nDriver info: org.openqa.selenium.remote.RemoteWebDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: /tmp/.com.google.Chrome.a4VHBC}, goog:chromeOptions: {debuggerAddress: localhost:41693}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 3bff03a8aceca41f3bd79da4679...}\nSession ID: 3bff03a8aceca41f3bd79da4679ddf25\n*** Element info: {Using\u003dxpath, value\u003d//body/app-minton[1]/app-layout[1]/div[1]/div[1]/div[1]/app-feedback[1]/div[1]/div[1]/div[1]/div[1]/div[1]/form[1]/div[2]/div[2]/app-grid-control[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]/i[1]}"}]}
+[INFO ] 2021-09-30 15:24:47.989 [main] Log4jDemo - Testing Started successfully.
+[ERROR] 2021-09-30 15:24:48.809 [main] Log4jDemo - OOPS!, something went wrong:java.io.FileNotFoundException: /iosdemo/TestDatas/Marygold&Co_web.xlsx (No such file or directory)
+[INFO ] 2021-09-30 15:24:54.494 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-30T15:24:43.156982","endTime":"2021-09-30T15:24:53.406515","executionTime":"(10)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-30T15:24:47.998603","details":"Testing Started successfully."},{"status":0,"timestamp":"2021-09-30T15:24:48.812738","screenshort":"Screenshot/Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/Reports/22-09-2021/Screenshots/image.png","details":"OOPS!, something went wrong:java.io.FileNotFoundException: /iosdemo/TestDatas/Marygold\u0026Co_web.xlsx (No such file or directory)"}]}
+[INFO ] 2021-09-30 17:35:20.622 [main] Log4jDemo - Testing Started successfully.
+[ERROR] 2021-09-30 17:35:21.546 [main] Log4jDemo - OOPS!, something went wrong:java.io.FileNotFoundException: /Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/TestDatas/Marygold&Co_web.xlsx (No such file or directory)
+[INFO ] 2021-09-30 17:35:27.149 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-30T17:35:16.210201","endTime":"2021-09-30T17:35:26.039431","executionTime":"(9)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-30T17:35:20.628726","details":"Testing Started successfully."},{"status":0,"timestamp":"2021-09-30T17:35:21.549189","screenshort":"Screenshot/Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/Reports/22-09-2021/Screenshots/image.png","details":"OOPS!, something went wrong:java.io.FileNotFoundException: /Users/smartpoint/Testing/Automation_testing/Appium/iosdemo/TestDatas/Marygold\u0026Co_web.xlsx (No such file or directory)"}]}
+[INFO ] 2021-09-30 17:36:43.651 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-30 17:36:46.381 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-30 17:36:50.504 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 17:36:56.500 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:03.191 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:09.371 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:15.273 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:19.471 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 17:37:24.079 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-30 17:37:30.466 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:36.958 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:41.588 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 17:37:48.186 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:54.749 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-30 17:37:59.373 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 17:38:03.917 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-30 17:38:08.063 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-30 17:38:12.923 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-30 17:38:17.427 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-30 17:38:21.858 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-30 17:38:26.643 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-30 17:38:30.447 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-30 17:38:34.937 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-30 17:38:39.135 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-30 17:38:43.052 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-30 17:38:55.188 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-30 17:39:00.933 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-30 17:39:18.965 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACCOUNT ID')]  Click action Performed
+[INFO ] 2021-09-30 17:39:24.791 [main] Log4jDemo - click  xpath  //div[contains(text(),'CARD ID')]  Click action Performed
+[INFO ] 2021-09-30 17:39:34.728 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION LOCAL DATE')]  Click action Performed
+[INFO ] 2021-09-30 17:39:38.938 [main] Log4jDemo - click  xpath  //div[contains(text(),'BUSINESS DATE')]  Click action Performed
+[INFO ] 2021-09-30 17:39:43.423 [main] Log4jDemo - click  xpath  //div[contains(text(),'TRANSACTION AMOUNT')]  Click action Performed
+[INFO ] 2021-09-30 17:39:48.262 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-30 17:39:53.021 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[1]/span[1]  Click action Performed
+[INFO ] 2021-09-30 17:39:57.269 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-30 17:40:02.361 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[3]/span[1]  Click action Performed
+[INFO ] 2021-09-30 17:40:06.587 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-30 17:40:10.968 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[5]/span[1]  Click action Performed
+[INFO ] 2021-09-30 17:40:48.160 [main] Log4jDemo - click  xpath  //div[@id='mat-select-value-1']  Click action Performed
+[INFO ] 2021-09-30 17:40:55.427 [main] Log4jDemo - click  xpath  //body/div[3]/div[2]/div[1]/div[1]/div[1]/mat-option[2]/span[1]  Click action Performed
+[INFO ] 2021-09-30 17:41:06.266 [main] Log4jDemo - click  xpath  //a[contains(text(),'Feedback')]  Click action Performed
+[INFO ] 2021-09-30 18:33:55.376 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-30 18:34:00.216 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-30 18:34:04.004 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 18:34:09.120 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:14.259 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:19.425 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:25.220 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:29.294 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 18:34:33.195 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-30 18:34:39.846 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:45.289 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 18:34:49.558 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 18:34:54.645 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']user@marygoldandco.com  Sendkey action Performed
+[INFO ] 2021-09-30 18:35:01.037 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']user  Sendkey action Performed
+[INFO ] 2021-09-30 18:35:04.833 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 18:35:09.023 [main] Log4jDemo - click  xpath  //span[contains(text(),'Reports')]  Click action Performed
+[INFO ] 2021-09-30 18:35:13.423 [main] Log4jDemo - click  xpath  //a[contains(text(),'Carta Report')]  Click action Performed
+[INFO ] 2021-09-30 18:35:17.802 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-30 18:35:23.007 [main] Log4jDemo - click  xpath  //button[contains(text(),'Refresh')]  Click action Performed
+[INFO ] 2021-09-30 18:35:27.249 [main] Log4jDemo - click  xpath  //button[contains(text(),'RESET')]  Click action Performed
+[INFO ] 2021-09-30 18:35:31.757 [main] Log4jDemo - click  xpath  //button[contains(text(),'SEARCH')]  Click action Performed
+[INFO ] 2021-09-30 18:35:36.124 [main] Log4jDemo - click  xpath  //div[contains(text(),'REFERENCE NUMBER')]  Click action Performed
+[INFO ] 2021-09-30 18:35:39.979 [main] Log4jDemo - click  xpath  //div[contains(text(),'EXTERNAL STAN')]  Click action Performed
+[INFO ] 2021-09-30 18:35:44.124 [main] Log4jDemo - click  xpath  //div[contains(text(),'MESSAGE TYPE')]  Click action Performed
+[INFO ] 2021-09-30 18:35:48.249 [main] Log4jDemo - click  xpath  //div[contains(text(),'PROCESSING CODE')]  Click action Performed
+[INFO ] 2021-09-30 18:35:52.235 [main] Log4jDemo - click  xpath  //div[contains(text(),'ACTION CODE')]  Click action Performed
+[INFO ] 2021-09-30 18:35:56.128 [main] Log4jDemo - click  xpath  //div[contains(text(),'CLIENT ID')]  Click action Performed
+[INFO ] 2021-09-30 18:49:09.778 [main] Log4jDemo - Testing Started successfully.
+[INFO ] 2021-09-30 18:49:14.104 [main] Log4jDemo - navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login URL navigated successfully.
+[INFO ] 2021-09-30 18:49:18.198 [main] Log4jDemo - click  xpath  //button[contains(text(),'Log In')]  Click action Performed
+[INFO ] 2021-09-30 18:49:24.651 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remi@yahoo.in  Sendkey action Performed
+[INFO ] 2021-09-30 18:49:31.390 [main] Log4jDemo - sendKeys  xpath  //input[@id='email']remigiusbca@gmail.com  Sendkey action Performed
+[INFO ] 2021-09-30 18:49:37.370 [main] Log4jDemo - sendKeys  xpath  //input[@id='password']Pd123456!  Sendkey action Performed
+[INFO ] 2021-09-30 18:49:45.582 [main] Log4jDemo -  TestResult : {"name":"Marygold_automation","startTime":"2021-09-30T18:49:04.548201","endTime":"2021-09-30T18:49:44.036970","executionTime":"(39)s","authors":["Remigius L"],"categories":["Ad-hoc testing"],"browsers":["Chrome"],"testcases":[{"status":1,"timestamp":"2021-09-30T18:49:09.786603","details":"Testing Started successfully."},{"status":1,"timestamp":"2021-09-30T18:49:14.105674","details":"navigateTo https://marygold-pubsub.uc.r.appspot.com/account/login  URL navigated successfully. "},{"status":1,"timestamp":"2021-09-30T18:49:18.199416","details":"click xpath //button[contains(text(),\u0027Log In\u0027)]  Click action Performed. "},{"status":1,"timestamp":"2021-09-30T18:49:24.652683","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remi@yahoo.in  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-30T18:49:31.390694","details":"sendKeys xpath //input[@id\u003d\u0027email\u0027] remigiusbca@gmail.com  Sendkey action Performed. "},{"status":1,"timestamp":"2021-09-30T18:49:37.371277","details":"sendKeys xpath //input[@id\u003d\u0027password\u0027] Pd123456!  Sendkey action Performed. "}]}
