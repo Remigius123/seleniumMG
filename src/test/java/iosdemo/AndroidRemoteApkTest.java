@@ -36,7 +36,7 @@ public class AndroidRemoteApkTest {
 		device.setCapability("enableVNC", true);
 		device.setCapability("enableVideo", true);
 		device.setCapability("enableLog", true);
-		URL url = new URL("http://34.135.205.197:4444/wd/hub");
+		URL url = new URL("http://127.0.0.1:4723/wd/hub");
 		RemoteWebDriver driver = new RemoteWebDriver (url, device);
 		// driver = new RemoteWebDriver(new URL(
 		//    "http://35.202.12.85:4444/wd/hub" //Replace with correct host and port

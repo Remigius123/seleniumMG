@@ -6,6 +6,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
 import java.util.LinkedList;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.poi.ss.usermodel.Cell;
@@ -30,7 +31,7 @@ import com.github.javafaker.Faker;
 
 import io.appium.java_client.AppiumDriver;
 
-public class KeywordDriven {
+public class Andriodrun {
 	//private static final String Fileutils = null;
 	ExtentReports extent;
 	WebDriver driver;
@@ -55,19 +56,30 @@ public class KeywordDriven {
 	@Test
 
 	public void readExcelandexecute() throws IOException {
-		ExtentTest test = extent.createTest("iOS demo_test").assignAuthor("Remigius L").assignCategory("Ad-hoc testing").assignDevice("iPhone 8 Plus");
+		ExtentTest test = extent.createTest("Android_Marygold&Co").assignAuthor("Remigius L").assignCategory("Ad-hoc testing").assignDevice("iPhone 8 Plus");
 
 		//test.pass("Test Finished");
 		//test.fail("Failed");
 		try {
 			DesiredCapabilities caps = new DesiredCapabilities();
-			caps.setCapability("platformName", "iOS");
-			caps.setCapability("deviceName", "iPhone 8 Plus");
-			caps.setCapability("platformVersion", "14.5");
-			//caps.setCapability("UDID", "0d00f1084c3d1be999a1f6eed324f9e12b655fa7	");
-			//caps.setCapability(CapabilityType.BROWSER_NAME, "safari");
-			///Users/smartpoint/Library/Developer/Xcode/DerivedData/MaryGold-fupudusfwfwafjffpptqcloogtpq/Build/Products/Debug-iphonesimulator/MaryGold.app
-			caps.setCapability("app", "/Users/smartpoint/Library/Developer/Xcode/DerivedData/mg-cvlyrczmthgmszcksescecbhtuyy/Build/Products/Debug-iphonesimulator/mg.app");
+			//caps.setCapability("platformName", "Android");
+			//caps.setCapability("platformVersion", "11");
+			//caps.setCapability("deviceName", "Pixel_2_API_30");
+			//caps.setCapability("platformVersion", "11");
+			//caps.setCapability("app", "/Users/smartpoint/Downloads/47.apk");
+			//caps.setCapability("appPackage", "com.marygoldandco.marygoldandco");
+			//caps.setCapability("appActivity", "com.marygoldandco.marygoldandco.MainActivity");
+			//caps.setCapability("automationName", "UiAutomator2");
+			
+			caps.setCapability("platformName", "Android");
+			caps.setCapability("udid", "15afaf370806");
+			caps.setCapability("app", "/Users/smartpoint/Downloads/47.apk");
+			caps.setCapability("appPackage", "com.marygoldandco.marygoldandco");
+			caps.setCapability("appActivity", "com.marygoldandco.marygoldandco.MainActivity");
+			caps.setCapability("automationName", "UiAutomator2");
+			caps.setCapability("platformVersion", "10");
+			caps.setCapability("ensureWebviewsHavePages", true);
+			
 
 			URL url = new URL("http://127.0.0.1:4723/wd/hub");
 			//URL remoteUrl = new URL ("http://" + "naveenautomation" +  ":" + "Zalenium2020" + "@" + "35.192.74.183" + "/wd/hub");
@@ -113,7 +125,7 @@ public class KeywordDriven {
 					String LocatorValue = Testexecution.get(4).toString();
 					String TestData = Testexecution.get(5).toString();
 					System.out.println(LocatorValue);
-
+					driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 					switch (LocatorType) {
 					case"xpath":
 						LocatorType = Testexecution.get(3).toString();

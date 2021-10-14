@@ -4,15 +4,12 @@ import java.awt.Desktop;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URI;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.util.Date;
 import java.util.LinkedList;
-import java.util.Locale;
 import java.util.concurrent.TimeUnit;
-import java.util.logging.Level;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
@@ -24,13 +21,10 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
-import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.logging.LogType;
-import org.openqa.selenium.logging.LoggingPreferences;
-import org.openqa.selenium.remote.CapabilityType;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.ui.Select;
@@ -44,7 +38,6 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.google.gson.Gson;
 
 import HelperComponents.makeDir;
-import io.github.bonigarcia.wdm.WebDriverManager;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -118,7 +111,7 @@ public class Zelenium_test {
 		DesiredCapabilities capabilities = new DesiredCapabilities();
 		capabilities.setBrowserName("chrome");
 		capabilities.setCapability("name", "Marygold&Co");
-		capabilities.setCapability("build", "1.0.10");
+		capabilities.setCapability("build", "1.0.26");
 		capabilities.setCapability("recordVideo", true);
 
 		RemoteWebDriver driver = new RemoteWebDriver(
@@ -167,11 +160,11 @@ public class Zelenium_test {
 
 					switch (LocatorType) {
 					case"xpath":
-						LocatorType = Testexecution.get(3).toString();					
+						LocatorType = Testexecution.get(3).toString();	
+						System.out.println("LocatorType :" + LocatorType);
 						break;
 					case"id":
 						LocatorType = Testexecution.get(3).toString();
-						System.out.println("id :" +LocatorType );
 						break;	
 					case"className":
 						LocatorType = Testexecution.get(3).toString();
@@ -182,7 +175,8 @@ public class Zelenium_test {
 					case"name":
 						LocatorType = Testexecution.get(3).toString();
 						break;							
-					}							
+					}									
+					driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 					switch (Keyword) {						
 					case "navigateTo":
 						driver.get(TestData);		
@@ -215,11 +209,26 @@ public class Zelenium_test {
 						logger.info(Keyword +"  xpath  "+LocatorValue+ TestData +"  SelectByVisibleText action Performed");
 						frameTestCase(testResult,String.format("%s xpath %s %s  SelectByVisibleText action Performed. ", Keyword,LocatorValue,TestData),true);
 						break;
+					case "alert":	
+						driver.switchTo().alert().accept();
+						test.pass(Keyword +"  xpath  "+LocatorValue+ TestData +"  Alert accepted action Performed");							
+						logger.info(Keyword +"  xpath  "+LocatorValue+ TestData +"  Alert accepted action Performed");
+						frameTestCase(testResult,String.format("%s xpath %s %s Alert accepted action Performed. ", Keyword,LocatorValue,TestData),true);
+						break;	
 					case "keys":	
-						driver.findElement(By.xpath(LocatorValue)).sendKeys(Keys.TAB);   
+						driver.findElement(By.xpath(LocatorValue)).sendKeys(Keys.ENTER);   
 						test.pass(Keyword +"  xpath  "+LocatorValue+ TestData +"  Keyboard key action Performed");							
 						logger.info(Keyword +"  xpath  "+LocatorValue+ TestData +"  Keyboard key action Performed");
 						frameTestCase(testResult,String.format("%s xpath %s %s  Keyboard key action Performed. ", Keyword,LocatorValue,TestData),true);
+						break;
+					case"moveToElement":
+						WebElement searchBtn = driver.findElement(By.xpath(LocatorValue));
+
+						Actions action = new Actions(driver);
+						action.moveToElement(searchBtn).perform();	
+						test.pass(Keyword +"  xpath  "+LocatorValue+ TestData +"  moveToElement action Performed");							
+						logger.info(Keyword +"  xpath  "+LocatorValue+ TestData +"  moveToElement action Performed");
+						frameTestCase(testResult,String.format("%s xpath %s %s  moveToElement action Performed. ", Keyword,LocatorValue,TestData),true);
 						break;
 					default:
 						return;
